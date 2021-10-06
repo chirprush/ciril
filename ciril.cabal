@@ -6,7 +6,7 @@ cabal-version: 1.12
 
 name:           ciril
 version:        0.1.0.0
-description:    Please see the README on GitHub at <https://github.com/chirprush/ciril#readme>
+description:    This is a utility for semantically navigating and traversing a C code base.
 homepage:       https://github.com/chirprush/ciril#readme
 bug-reports:    https://github.com/chirprush/ciril/issues
 author:         Rushil Surti
@@ -25,7 +25,7 @@ source-repository head
 
 library
   exposed-modules:
-      Lib
+      ArgParse
   other-modules:
       Paths_ciril
   hs-source-dirs:
