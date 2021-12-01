@@ -24,8 +24,6 @@ source-repository head
   location: https://github.com/chirprush/ciril
 
 library
-  exposed-modules:
-      ArgParse
   other-modules:
       Paths_ciril
   hs-source-dirs:
